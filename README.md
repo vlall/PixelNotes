@@ -1,8 +1,8 @@
 PixelNotes
 ==========
 
-PixelNotes reads a given input of an image in 'jpg' format and outputs a textfile of the altered compositional matrix
-This matrix can then be interpreted as notes for Max MSP.
+PixelNotes reads a given input of an image in 'jpg' format and outputs a textfile of the altered compositional matrix.
+This matrix can then be interpreted as input notes for a Max MSP composition.
 
 
 Future Updates
