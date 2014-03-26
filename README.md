@@ -14,4 +14,4 @@ For example:
 
 1. A class for Happy, Sad, Scared, Relaxed, Motivated ect.. The more objects, the more interpretations.
 2. Relating the color wheel to the Circle of Fifths
-3. **We also need to find a way to understand the whole image rather than its individual colors.**
+3. **We also need to find a way to understand the whole image rather than its individual colors.** Future expansion may include the ability to cluster and detect abstraction using CogSci libraries.
