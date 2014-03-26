@@ -144,7 +144,7 @@ public class PixelNotes extends Component {
     try {
       // get the BufferedImage, using the ImageIO class
       BufferedImage image = 
-        ImageIO.read(this.getClass().getResource("image3.jpg"));
+        ImageIO.read(this.getClass().getResource("monalisa.jpg"));
       marchThroughImage(image);
     } catch (IOException e) {
       System.err.println(e.getMessage());
