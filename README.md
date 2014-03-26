@@ -12,6 +12,6 @@ Each interpretation will be given its own class in Java.
 From this, we will be able to create classes that compose in particular states of emotion.
 For example:
 
-1. A class for Happy, Sad, Scared, Relaxed, Motivated ect.. The more objects, the more interpretations.
+1. A class for Happy, Sad, Scared, Relaxed, Motivated ect.. One object per interpretation.
 2. Relating the color wheel to the Circle of Fifths
 3. **We also need to find a way to understand the whole image rather than its individual colors.** Future expansion may include the ability to cluster and detect abstraction using CogSci libraries.
