@@ -12,6 +12,9 @@ public class PixelNotes extends Component {
   }
 
   public void printPixelARGB(int pixel) {
+  	/* Basic method of dividing colors, this is intended as ONLY a starting point.
+  	    it might be helpful to create a wide array of categories, seperating this class to another file
+  	*/
     int alpha = (pixel >> 24) & 0xff;
     int red = (pixel >> 16) & 0xff;
     int green = (pixel >> 8) & 0xff;
