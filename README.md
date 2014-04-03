@@ -7,43 +7,22 @@ This matrix can then be interpreted as input notes for a Max MSP composition.
 
 Please read the following chart to understand the mathematical relationship between tones:
 
-| Semitone      | Ratio |
-| ------------- | ------------- |
-| 0 | 1:1 |
-| 1 | 16:15 |
-| 2 | 9:8	|
-| 3 | 6:5 |
-| 4 | 5:4 |
-| 5 | 4:3 |
-| 6 | 45:32 |
-| 7 | 3:2 |
-| 8 | 8:5 |
-| 9 | 5:3 |
-| 10 | 9:5 |
-| 11 | 15:8 |
-| 12 | 12:1 |
+| Semitone      | Ratio |       | Interval |
+| ------------- | ------------- | -------- |
+| 0 | 1:1 | unison |
+| 1 | 16:15 | minor semitone |
+| 2 | 9:8	| major second |
+| 3 | 6:5 | minor third |
+| 4 | 5:4 | major third |
+| 5 | 4:3 | perfect fourth |
+| 6 | 45:32 | diatonic tritone |
+| 7 | 3:2 | perfect fifth |
+| 8 | 8:5 |  minor sixth|
+| 9 | 5:3 | major sixth |
+| 10 | 9:5 | minor seventh |
+| 11 | 15:8 | major seventh |
+| 12 | 12:1 | octave |
 
-
-
-| Semitone  | Ratio |
-| ------------- | ------------- |
-| 0  | 1:1  |
-| 1  | 16:15  |
-
-Semitone	Ratio	Interval	Natural	Half Step
-0	1:1	unison	480	0
-1	16:15	minor semitone	512	16:15
-2	9:8	major second	540	135:128
-3	6:5	minor third	576	16:15
-4	5:4	major third	600	25:24
-5	4:3	perfect fourth	640	16:15
-6	45:32	diatonic tritone	675	135:128
-7	3:2	perfect fifth	720	16:15
-8	8:5	minor sixth	768	16:15
-9	5:3	major sixth	800	25:24
-10	9:5	minor seventh	864	27:25
-11	15:8	major seventh	900	25:24
-12	2:1	octave	960	16:15
 
 ###Future Updates
 PixelNotes will be made compatible to interpret an image in various ways.
