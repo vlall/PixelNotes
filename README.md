@@ -6,21 +6,22 @@ PixelNotes reads a given input of an image in 'jpg' format and outputs a textfil
 This matrix can then be interpreted as input notes for a Max MSP composition.
 
 Please read the following chart to understand the mathematical relationship between tones:
+
 | Semitone      | Ratio |
 | ------------- | ------------- |
-| 0 | 1:1   |
+| 0 | 1:1 |
 | 1 | 16:15 |
-| 2 | 9:8	  |
-| 3 | 6:5   |
-| 4 | 5:4   |
-| 5 | 4:3   |
+| 2 | 9:8	|
+| 3 | 6:5 |
+| 4 | 5:4 |
+| 5 | 4:3 |
 | 6 | 45:32 |
-| 7 | 3:2   |
-| 8 | 8:5   |
-| 9 | 5:3   |
-| 10 | 9:5   |
-| 11 | 15:8  |
-| 12 | 12:1  |
+| 7 | 3:2 |
+| 8 | 8:5 |
+| 9 | 5:3 |
+| 10 | 9:5 |
+| 11 | 15:8 |
+| 12 | 12:1 |
 
 
 
