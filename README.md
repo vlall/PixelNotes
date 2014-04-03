@@ -22,6 +22,19 @@ Please read the following chart to understand the mathematical relationship betw
 | 11            | 15:8          |
 | 12            | 12:1          |
 
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     
+| column     |      column |    column    
+| will       |        will |     will     
+| be         |          be |      be      
+| left       |       right |    center    
+| aligned    |     aligned |   aligned
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 Semitone	Ratio	Interval	Natural	Half Step
 0	1:1	unison	480	0
