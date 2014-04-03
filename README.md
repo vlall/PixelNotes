@@ -7,7 +7,7 @@ This matrix can then be interpreted as input notes for a Max MSP composition.
 
 Please read the following chart to understand the mathematical relationship between tones:
 
-| Semitone      | Ratio |       | Interval |
+| Semitone      | Ratio         | Interval |
 | ------------- | ------------- | ------------------ |
 | 0 | 1:1 | unison |
 | 1 | 16:15 | minor semitone |
