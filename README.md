@@ -32,4 +32,4 @@ For example:
 
 1. A class for Happy, Sad, Scared, Relaxed, Motivated ect.. This will influence more variables (tempo, tone, rhythm, dynamics)
 2. Relating the color wheel to the Circle of Fifths
-3. **We also need to find a way to understand the whole image rather than its individual colors.** Future expansion may include the ability for cluster detection.
+3. Future expansion may include the ability for geometric shape detection/clustering instead of focusing on colors
