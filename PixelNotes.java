@@ -30,8 +30,9 @@ public class PixelNotes extends Component {
     int note = 0;
     System.out.println("rgb: " + red + ", " + green + ", " + blue);
 
-//This is a test to make sure each color can recieve a unique value.
-// You can and should edit this part out for compositional purposes                        
+// *PLEASE READ* This is a basic color test to make sure each color can recieve a unique value.
+// We print out whatever matrix you want with this code to a txt file and then open our Max Patch.
+// You should edit this part out for compositional purposes                        
 
     if (red2 == 0 && green2 == 0 && blue2 == 0) 
         {note = 1;} 
@@ -109,7 +110,7 @@ public class PixelNotes extends Component {
 		{note = 5;}     
 	System.out.println(note);	
 
-// end color composition
+// END COLOR COMPOSITION
 
 	try
         {
