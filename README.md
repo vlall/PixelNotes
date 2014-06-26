@@ -5,6 +5,8 @@ PixelNotes
 PixelNotes reads a given input of an image in 'jpg' format and outputs a textfile of the altered compositional matrix.
 This matrix can then be interpreted as input notes for a Max MSP composition.
 
+![alt tag](https://raw.github.com/vlall/PixelNotes/monalisa.jpg)
+
 Please read the following chart to understand the mathematical relationship between tones:
 
 | Semitone      | Ratio         | Interval |
