@@ -30,87 +30,19 @@ public class PixelNotes extends Component {
     int note = 0;
     System.out.println("rgb: " + red + ", " + green + ", " + blue);
 
-// *PLEASE READ* This is a basic color test to make sure each color can recieve a unique value.
-// We print out whatever matrix you want with this code to a txt file and then open our Max Patch.
-// You should edit this part out for compositional purposes                        
+/* *READ* This is a basic color test to make sure each color can recieve a unique value.
+                     
 
     if (red2 == 0 && green2 == 0 && blue2 == 0) 
         {note = 1;} 
     
     else if (red2 == 1 && green2 == 0 && blue2 == 0) 
     	{note = 3;}
+  
+    else {note = 5;}
+    System.out.println(note);	
     
-    else if (red2 == 2 && green2 == 0 && blue2 == 0) 
-		{note = 5;}
-    
-    else if (red2 == 0 && green2 == 1 && blue2 == 0) 
-		{note = 6;} 
-    
-    else if (red2 == 0 && green2 == 2 && blue2 == 0) 
-		{note = 8;} 
-    
-    else if (red2 == 0 && green2 == 0 && blue2 == 1) 
-		{note = 6;} 
-    
-    else if (red2 == 0 && green2 == 0 && blue2 == 2) 
-		{note = 10;} 
-    
-    else if (red2 == 0 && green2 == 1 && blue2 == 0) 
-		{note = 8;} 
-    
-    else if (red2 == 1 && green2 == 1 && blue2 == 0) 
-		{note = 9;} 
-    
-    else if (red2 == 2 && green2 == 1 && blue2 == 0) 
-		{note = 10;} 
-    
-    else if (red2 == 0 && green2 == 1 && blue2 == 1) 
-		{note = 1;} 
-    
-    else if (red2 == 0 && green2 == 1 && blue2 == 2) 
-		{note = 12;} 
-    
-    else if (red2 == 1 && green2 == 1 && blue2 == 1) 
-		{note = 13;} 
-    
-    else if (red2 == 2 && green2 == 2 && blue2 == 2) 
-		{note = 3;} 
-    
-    else if (red2 == 2 && green2 == 2 && blue2 == 1) 
-		{note = 5;} 
-
-    else if (red2 == 2 && green2 == 2 && blue2 == 0) 
-		{note = 6;} 
-    
-    else if (red2 == 2 && green2 == 1 && blue2 == 2) 
-		{note = 24;} 
-    
-    else if (red2 == 1 && green2 == 2 && blue2 == 0) 
-		{note = 26;} 
-    
-    else if (red2 == 0 && green2 == 2 && blue2 == 1) 
-		{note = 3;} 
-    
-    else if (red2 == 2 && green2 == 0 && blue2 == 0) 
-		{note = 13;} 
-    
-    else if (red2 == 2 && green2 == 0 && blue2 == 1) 
-		{note = 8;} 
-    
-    else if (red2 == 2 && green2 == 0 && blue2 == 2) 
-		{note = 5;} 
-    
-    else if (red2 == 1 && green2 == 0 && blue2 == 1) 
-		{note = 1;} 
-    
-    else if (red2 == 1 && green2 == 0 && blue2 == 2) 
-		{note = 8;} 
-    
-    else if (red2 == 1 && green2 == 2 && blue2 == 2) 
-		{note = 5;}     
-	System.out.println(note);	
-
-// END COLOR COMPOSITION
+ END COLOR COMPOSITION */
 
 	try
         {
